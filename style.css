@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #00FFD1;
+
+}
+main{
+    background-color: #06266F;
+}
+a{
+    text-decoration: none;
+    margin: 15px;
+    color: black;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+td{
+    border: 1px solid white;
+    font-size: x-large;
+}
+table{
+    margin: auto;
+}
+.ul_li{
+    text-align: left;
+}
