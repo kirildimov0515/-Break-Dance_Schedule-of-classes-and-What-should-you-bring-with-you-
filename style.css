@@ -10,7 +10,7 @@ a{
     text-decoration: none;
     margin: 15px;
     color: black;
-    border: 1px solid darkblue;
+    border: 1px dashed darkblue;
     border-radius: 10px;
     padding: 5px;
 }
@@ -23,4 +23,7 @@ table{
 }
 .ul_li{
     text-align: left;
+}
+li{
+    color: wheat;
 }
