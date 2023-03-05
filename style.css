@@ -22,7 +22,7 @@ table{
     margin: auto;
 }
 .ul_li{
-    text-align: left;
+    float: center;
 }
 li{
     color: wheat;
